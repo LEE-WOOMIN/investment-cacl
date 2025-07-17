@@ -1,2 +1,3 @@
-# investment-cacl
-주식 투자시 주의/경고 등 해제일 계산
+# KRX 투자주의 해제 계산기
+
+This is the React project for deploying to Netlify.
